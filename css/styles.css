@@ -1,0 +1,21 @@
+.important{
+  text-align: center;
+  font-size: 40px;
+}
+
+.unimportant{
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.list{
+  text-align: left;
+  font-style: italic;
+}
+
+body{
+  background-color: grey;
+}
